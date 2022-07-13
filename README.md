@@ -436,24 +436,15 @@ La longitud del conductor expuesta al campo
 
 La velocidad de rotación del conductor
 
-22. ¿Cómo complementa la ley de Lenz a la ley de Faraday?
+22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
 
-**Respuesta:**
+![image](https://user-images.githubusercontent.com/105675032/177923380-9a88c1fa-ab68-454e-aeef-4ea805c78c20.png)
 
-La ley de Faraday establece que un campo magnético cambiante induce un voltaje en una bobina que es directamente proporcional a la velocidad de cambio del campo magnético y al número de vueltas que haya en la bobina. La ley de Lenz hace referencia a la dirección fluye la corriente, y establece que la dirección siempre es tal que se opone al cambio de flujo que la produce.
+Se ejerce una fuerza en el conductor cuando existe corriente.
 
-De este modo la ley de Lenz complementa a la ley de Faraday definiendo la polaridad del voltaje inducido.
+24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?
 
-
-24. Explique el propósito del conmutador y de las escobillas en la figura 10-35.
-
-![image](https://user-images.githubusercontent.com/93733175/148501298-4eee4ea9-00c6-47b5-afc8-4dc3992aab0a.png)
-
-**Respuesta:**
-
-El ensamble de conmutador y escobillas conecta eléctricamente la espira al circuito externo.
-
-Puesto que el conmutador proporcionar una conexión eléctrica entre las escobillas presentes y la escobilla se trata de elementos cuya finalidad es realizar la presión necesaria.
+120 cada segundo.
 
 4. VIDEO
 
