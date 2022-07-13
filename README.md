@@ -28,10 +28,6 @@ Objetivo Específico
 
 ![image](https://user-images.githubusercontent.com/93733175/148488258-5b052315-294b-4c42-9bf0-40d38a9fb071.png)
 
-![image](https://user-images.githubusercontent.com/93733175/148488302-76fdcd47-1475-4c39-af67-e8064b1c0f65.png)
-
-![0001](https://user-images.githubusercontent.com/93733175/148489379-be1dd874-39e9-4f3d-88cc-aee16178e41e.jpg)
-![0002](https://user-images.githubusercontent.com/93733175/148489649-f478484d-330d-4bc0-a2ae-be5f34081c73.jpg)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -341,11 +337,11 @@ VB = 0.0202 A *(8.2 Ω+ 3.9 Ω)
 
 **CAPITULO 10**
 
-1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
+2. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
 
 **Respuesta: La densidad del flujo disminuye debido a que es inversamente proporcional.
 
-3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 * 10^6 T y el área de sección transversal mide 150 cm2?
+4. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 * 10^6 T y el área de sección transversal mide 150 cm2?
 Siendo la formula de la densidad de flujo
 
 B=Φ/A
@@ -368,23 +364,23 @@ Transformamos el área a metros
 
 **Φ=375*10^6  Wb
 
-5. Un imán permanente muy fuerte tiene un campo magnético de 100,000 µT. Exprese esta densidad de flujo en gauss.
+6. Un imán permanente muy fuerte tiene un campo magnético de 100,000 µT. Exprese esta densidad de flujo en gauss.
 
 ![image](https://user-images.githubusercontent.com/93733175/148500550-62289afb-57dd-44d5-ae45-b0a28b2772a4.png)
 
-SECCIÓN 10–2 Electromagnetismo
 
-7. ¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de 750 x 10^-6 Wb/At·m?
+
+8. ¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de 750 x 10^-6 Wb/At·m?
 
 ![image](https://user-images.githubusercontent.com/93733175/148508165-d7a16c0a-bbca-4eac-94a9-2629d2a2f299.png)
 
-9. ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a través de él?
+10. ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a través de él?
 
 ![image](https://user-images.githubusercontent.com/93733175/148500617-8036285c-d93a-4a88-8371-bb220c69953c.png)
 
-SECCIÓN 10–3 Dispositivos electromagnéticos
 
-11. (a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide?
+
+12. (a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide?
 
 El embolo es una pieza de una bomba o del cilindro de un motor que se mueve hacia arriba o hacia abajo impulsando un fluido o bien recibiendo el impulso de él. Al activa un Solenoide que es para una bobina de alambre utilizada como un electroimán. La fuerza que hace mover el embolo es la fuerza del campo electromagnético.
 
@@ -400,7 +396,7 @@ Como el embolo se mueve hacia arriba o hacia abajo la fuerza que hace que ingres
 
 Resorte
 
-13. ¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexione cuando circula corriente a través de la bobina?
+14. ¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexione cuando circula corriente a través de la bobina?
 
 ![image](https://user-images.githubusercontent.com/93733175/148500873-ea6f6658-5eda-41eb-a1a8-eb99bd5f63c4.png)
 
@@ -408,9 +404,9 @@ Resorte
 
 Fuerzas producidas por la interacción del campo electromagnético y el campo magnético permanente
 
-SECCIÓN 10–4 Histéresis magnética
 
-15. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del núcleo?
+
+16. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del núcleo?
 
 ![image](https://user-images.githubusercontent.com/93733175/148500931-81d56cd2-69c2-40b6-9512-713ebe82080a.png)
 
@@ -418,7 +414,7 @@ SECCIÓN 10–4 Histéresis magnética
 
 Cambiando la corriente
 
-17. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad?
+18. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad?
 
 ![image](https://user-images.githubusercontent.com/93733175/148500999-c1ddecb2-512f-435e-9554-3db98a3c2caa.png)
 
@@ -430,7 +426,7 @@ De este modo en la imagen el material que tiene más retentividad es el Materia 
 
 SECCIÓN 10–5 Inducción electromagnética
 
-19. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?
+20. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?
 
 **Respuesta:**
 
@@ -440,7 +436,7 @@ La longitud del conductor expuesta al campo
 
 La velocidad de rotación del conductor
 
-21. ¿Cómo complementa la ley de Lenz a la ley de Faraday?
+22. ¿Cómo complementa la ley de Lenz a la ley de Faraday?
 
 **Respuesta:**
 
@@ -448,9 +444,8 @@ La ley de Faraday establece que un campo magnético cambiante induce un voltaje 
 
 De este modo la ley de Lenz complementa a la ley de Faraday definiendo la polaridad del voltaje inducido.
 
-SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
 
-23. Explique el propósito del conmutador y de las escobillas en la figura 10-35.
+24. Explique el propósito del conmutador y de las escobillas en la figura 10-35.
 
 ![image](https://user-images.githubusercontent.com/93733175/148501298-4eee4ea9-00c6-47b5-afc8-4dc3992aab0a.png)
 
@@ -460,13 +455,7 @@ El ensamble de conmutador y escobillas conecta eléctricamente la espira al circ
 
 Puesto que el conmutador proporcionar una conexión eléctrica entre las escobillas presentes y la escobilla se trata de elementos cuya finalidad es realizar la presión necesaria.
 
-25. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el voltaje máximo.
-
-![image](https://user-images.githubusercontent.com/93733175/148872507-77641f84-1f44-47ea-8150-44128a4c51da.png)
-
 4. VIDEO
-
-https://youtu.be/BU65NjgAQsI
 
 5. CONCLUSIONES
 
@@ -474,9 +463,6 @@ https://youtu.be/BU65NjgAQsI
 
 * Tambien se tiene que el método de la corriente en ramas es un método que permite determinar la corriente que circula en cada rama de un circuito generando ecuaciones simultáneas, y cuando se conozcan las corrientes presentes en las ramas, se pueden determinar los voltajes.
 
-* El análisis en nodos se trata de identificar las corrientes presentes en el nodo que se quiere saber su voltaje y utilizarlas según la ley de la corriente de Kirchhoff para poder realizar sistemas de ecuaciones, pero transformando las corrientes en función del voltaje y la resistencia para hallar el voltaje del nodo.
-
-* El campo magnético consta de líneas de fuerza que al agruparse forman un flujo donde su densidad se ve determinada por el área trasversal del material por donde pase, pero dependerá de la permeabilidad que es la capacidad de poder tener un campo magnético. Además, un material puede convertirse en un imán, es decir, ser magnetizado si posee dominios magnéticos ya que al estar en presencia de un campo magnético se alinean sus dominios generando que actúe como un imán.
 
 * Se tiene que la intensidad de campo magnético puede ser incrementada o reducida con facilidad variando la corriente a través de la bobina de alambre, y puede ser invertida invirtiendo la polaridad del voltaje presente en la bobina. 
 
@@ -486,4 +472,3 @@ https://youtu.be/BU65NjgAQsI
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
-RUBRICA
